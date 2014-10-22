@@ -1,18 +1,22 @@
 accelerometerAverages.txt – CODE BOOK
-
+-----------------
 This file describes the source data used as a basis for the file "accelerometerAverages.txt", describes the transformations that I have made, and lists the variables of the resulting data sets.
 
 (I)	SOURCE DATA
+-----------------
 The source data are the rather sophisticated accelerometer data, which were retrieved from:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 Since there is no simple way to summarise the source data, the reader is referred to the data description provided by the research team generating the source data:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-(II)	TRANSFORMATIONS UNDERTAKEN(For a step-by-step description of the script, please refer to the "README.md" file)
+(II)	TRANSFORMATIONS UNDERTAKEN
+-----------------
+(For a step-by-step description of the script, please refer to the "README.md" file)
 After merging all test and training data, all measures not related to means and standard deviations are discarded, and averages of the remaining measures are taken within each combination of "Subject" and "Activity".
 The resulting data set (180 rows - 6 activities times 30 subjects; 68 columns - 2 grouping variables + 66 measures) is stored in "accelerometerAverages.txt"
 
 (III)	LIST OF VARIABLES
+-----------------
 Please note that the 66 measurement variables are all averages across all measurements for the combination of activity and subject specified in “Activity” and “Subject”; the units for said measurements are provided in the source data:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
