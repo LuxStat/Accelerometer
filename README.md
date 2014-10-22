@@ -7,7 +7,9 @@ to arrive at the output data file "accelerometerAverages.txt"
 (The content of the output data file is described in the code book "CodeBook.md".)
 
 DESCRIPTION OF THE SCRIPT "run_analysis.R"
+
 (For a fuller description, please refer to the comments in the script itself)
+
 The following steps are undertaken in the following order (NOTE: enumerated according to the assignment, but presented in the order they are executed in the script "run_analysis.R"):
 A. Function “importMerge” to import and merge data
 Task 0. (not enumerated in the assignment): Import the data
