@@ -18,140 +18,138 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 Variable	Description
 --------------------------------------------------------------------------------------------------------------------------------------
-Activity	One of the six activities
-: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
-Subject	Sequential number of the subject (1-30)
+Activity:	One of the six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
 
-tBodyAcc-mean()-X	Average (for all measures performed on the subject for the given activity) of the variable 'tBodyAcc-mean()-X'
+Subject: Sequential number of the subject (1-30)
 
-tBodyAcc-mean()-Y	Average (for all measures performed on the subject for the given activity) of the variable 'tBodyAcc-mean()-Y'
+tBodyAcc-mean()-X: Average (for all measures performed on the subjects) of the variable 'tBodyAcc-mean()-X'
 
-tBodyAcc-mean()-Z	Average (for all measures performed on the subject for the given activity) of the variable 'tBodyAcc-mean()-Z'
+tBodyAcc-mean()-Y: Average (for all measures performed on the subjects) of the variable 'tBodyAcc-mean()-Y'
 
-tBodyAcc-std()-X	Average (for all measures performed on the subject for the given activity) of the variable 'tBodyAcc-std()-X'
+tBodyAcc-mean()-Z: Average (for all measures performed on the subjects) of the variable 'tBodyAcc-mean()-Z'
 
-tBodyAcc-std()-Y	Average (for all measures performed on the subject for the given activity) of the variable 'tBodyAcc-std()-Y'
+tBodyAcc-std()-X: Average (for all measures performed on the subjects) of the variable 'tBodyAcc-std()-X'
 
-tBodyAcc-std()-Z	Average (for all measures performed on the subject for the given activity) of the variable 'tBodyAcc-std()-Z'
+tBodyAcc-std()-Y: Average (for all measures performed on the subjects) of the variable 'tBodyAcc-std()-Y'
 
-tGravityAcc-mean()-X	Average (for all measures performed on the subject for the given activity) of the variable 'tGravityAcc-mean()-X'
+tBodyAcc-std()-Z: Average (for all measures performed on the subjects) of the variable 'tBodyAcc-std()-Z'
 
-tGravityAcc-mean()-Y	Average (for all measures performed on the subject for the given activity) of the variable 'tGravityAcc-mean()-Y'
+tGravityAcc-mean()-X: Average (for all measures performed on the subjects) of the variable 'tGravityAcc-mean()-X'
 
-tGravityAcc-mean()-Z	Average (for all measures performed on the subject for the given activity) of the variable 'tGravityAcc-mean()-Z'
+tGravityAcc-mean()-Y: Average (for all measures performed on the subjects) of the variable 'tGravityAcc-mean()-Y'
 
-tGravityAcc-std()-X	Average (for all measures performed on the subject for the given activity) of the variable 'tGravityAcc-std()-X'
+tGravityAcc-mean()-Z: Average (for all measures performed on the subjects) of the variable 'tGravityAcc-mean()-Z'
 
-tGravityAcc-std()-Y	Average (for all measures performed on the subject for the given activity) of the variable 'tGravityAcc-std()-Y'
+tGravityAcc-std()-X: Average (for all measures performed on the subjects) of the variable 'tGravityAcc-std()-X'
 
-tGravityAcc-std()-Z	Average (for all measures performed on the subject for the given activity) of the variable 'tGravityAcc-std()-Z'
+tGravityAcc-std()-Y: Average (for all measures performed on the subjects) of the variable 'tGravityAcc-std()-Y'
 
-tBodyAccJerk-mean()-X	Average (for all measures performed on the subject for the given activity) of the variable 'tBodyAccJerk-mean()-X'
+tGravityAcc-std()-Z: Average (for all measures performed on the subjects) of the variable 'tGravityAcc-std()-Z'
 
-tBodyAccJerk-mean()-Y	Average (for all measures performed on the subject for the given activity) of the variable 'tBodyAccJerk-mean()-Y'
+tBodyAccJerk-mean()-X: Average (for all measures performed on the subjects) of the variable 'tBodyAccJerk-mean()-X'
 
-tBodyAccJerk-mean()-Z	Average (for all measures performed on the subject for the given activity) of the variable 'tBodyAccJerk-mean()-Z'
+tBodyAccJerk-mean()-Y: Average (for all measures performed on the subjects) of the variable 'tBodyAccJerk-mean()-Y'
 
-tBodyAccJerk-std()-X	Average (for all measures performed on the subject for the given activity) of the variable 'tBodyAccJerk-std()-X'
+tBodyAccJerk-mean()-Z: Average (for all measures performed on the subjects) of the variable 'tBodyAccJerk-mean()-Z'
 
-tBodyAccJerk-std()-Y	Average (for all measures performed on the subject for the given activity) of the variable 'tBodyAccJerk-std()-Y'
+tBodyAccJerk-std()-X: Average (for all measures performed on the subjects) of the variable 'tBodyAccJerk-std()-X'
 
-tBodyAccJerk-std()-Z	Average (for all measures performed on the subject for the given activity) of the variable 'tBodyAccJerk-std()-Z'
+tBodyAccJerk-std()-Y: Average (for all measures performed on the subjects) of the variable 'tBodyAccJerk-std()-Y'
 
-tBodyGyro-mean()-X	Average (for all measures performed on the subject for the given activity) of the variable 'tBodyGyro-mean()-X'
+tBodyAccJerk-std()-Z: Average (for all measures performed on the subjects) of the variable 'tBodyAccJerk-std()-Z'
 
-tBodyGyro-mean()-Y	Average (for all measures performed on the subject for the given activity) of the variable 'tBodyGyro-mean()-Y'
+tBodyGyro-mean()-X: Average (for all measures performed on the subjects) of the variable 'tBodyGyro-mean()-X'
 
-tBodyGyro-mean()-Z	Average (for all measures performed on the subject for the given activity) of the variable 'tBodyGyro-mean()-Z'
+tBodyGyro-mean()-Y: Average (for all measures performed on the subjects) of the variable 'tBodyGyro-mean()-Y'
 
-tBodyGyro-std()-X	Average (for all measures performed on the subject for the given activity) of the variable 'tBodyGyro-std()-X'
+tBodyGyro-mean()-Z: Average (for all measures performed on the subjects) of the variable 'tBodyGyro-mean()-Z'
 
-tBodyGyro-std()-Y	Average (for all measures performed on the subject for the given activity) of the variable 'tBodyGyro-std()-Y'
+tBodyGyro-std()-X: Average (for all measures performed on the subjects) of the variable 'tBodyGyro-std()-X'
 
-tBodyGyro-std()-Z	Average (for all measures performed on the subject for the given activity) of the variable 'tBodyGyro-std()-Z'
+tBodyGyro-std()-Y: Average (for all measures performed on the subjects) of the variable 'tBodyGyro-std()-Y'
 
-tBodyGyroJerk-mean()-X	Average (for all measures performed on the subject for the given activity) of the variable 'tBodyGyroJerk-mean()-X'
+tBodyGyro-std()-Z: Average (for all measures performed on the subjects) of the variable 'tBodyGyro-std()-Z'
 
-tBodyGyroJerk-mean()-Y	Average (for all measures performed on the subject for the given activity) of the variable 'tBodyGyroJerk-mean()-Y'
+tBodyGyroJerk-mean()-X: Average (for all measures performed on the subjects) of the variable 'tBodyGyroJerk-mean()-X'
 
-tBodyGyroJerk-mean()-Z	Average (for all measures performed on the subject for the given activity) of the variable 'tBodyGyroJerk-mean()-Z'
+tBodyGyroJerk-mean()-Y: Average (for all measures performed on the subjects) of the variable 'tBodyGyroJerk-mean()-Y'
 
-tBodyGyroJerk-std()-X	Average (for all measures performed on the subject for the given activity) of the variable 'tBodyGyroJerk-std()-X'
+tBodyGyroJerk-mean()-Z: Average (for all measures performed on the subjects) of the variable 'tBodyGyroJerk-mean()-Z'
 
-tBodyGyroJerk-std()-Y	Average (for all measures performed on the subject for the given activity) of the variable 'tBodyGyroJerk-std()-Y'
+tBodyGyroJerk-std()-X: Average (for all measures performed on the subjects) of the variable 'tBodyGyroJerk-std()-X'
 
-tBodyGyroJerk-std()-Z	Average (for all measures performed on the subject for the given activity) of the variable 'tBodyGyroJerk-std()-Z'
+tBodyGyroJerk-std()-Y: Average (for all measures performed on the subjects) of the variable 'tBodyGyroJerk-std()-Y'
 
-tBodyAccMag-mean()	Average (for all measures performed on the subject for the given activity) of the variable 'tBodyAccMag-mean()'
+tBodyGyroJerk-std()-Z: Average (for all measures performed on the subjects) of the variable 'tBodyGyroJerk-std()-Z'
 
-tBodyAccMag-std()	Average (for all measures performed on the subject for the given activity) of the variable 'tBodyAccMag-std()'
+tBodyAccMag-mean(): Average (for all measures performed on the subjects) of the variable 'tBodyAccMag-mean()'
 
-tGravityAccMag-mean()	Average (for all measures performed on the subject for the given activity) of the variable 'tGravityAccMag-mean()'
+tBodyAccMag-std(): Average (for all measures performed on the subjects) of the variable 'tBodyAccMag-std()'
 
-tGravityAccMag-std()	Average (for all measures performed on the subject for the given activity) of the variable 'tGravityAccMag-std()'
+tGravityAccMag-mean(): Average (for all measures performed on the subjects) of the variable 'tGravityAccMag-mean()'
 
-tBodyAccJerkMag-mean()	Average (for all measures performed on the subject for the given activity) of the variable 'tBodyAccJerkMag-mean()'
+tGravityAccMag-std(): Average (for all measures performed on the subjects) of the variable 'tGravityAccMag-std()'
 
-tBodyAccJerkMag-std()	Average (for all measures performed on the subject for the given activity) of the variable 'tBodyAccJerkMag-std()'
+tBodyAccJerkMag-mean(): Average (for all measures performed on the subjects) of the variable 'tBodyAccJerkMag-mean()'
 
-tBodyGyroMag-mean()	Average (for all measures performed on the subject for the given activity) of the variable 'tBodyGyroMag-mean()'
+tBodyAccJerkMag-std(): Average (for all measures performed on the subjects) of the variable 'tBodyAccJerkMag-std()'
 
-tBodyGyroMag-std()	Average (for all measures performed on the subject for the given activity) of the variable 'tBodyGyroMag-std()'
+tBodyGyroMag-mean(): Average (for all measures performed on the subjects) of the variable 'tBodyGyroMag-mean()'
 
-tBodyGyroJerkMag-mean()	Average (for all measures performed on the subject for the given activity) of the variable 'tBodyGyroJerkMag-mean()'
+tBodyGyroMag-std(): Average (for all measures performed on the subjects) of the variable 'tBodyGyroMag-std()'
 
-tBodyGyroJerkMag-std()	Average (for all measures performed on the subject for the given activity) of the variable 'tBodyGyroJerkMag-std()'
+tBodyGyroJerkMag-mean(): Average (for all measures performed on the subjects) of the variable 'tBodyGyroJerkMag-mean()'
 
-fBodyAcc-mean()-X	Average (for all measures performed on the subject for the given activity) of the variable 'fBodyAcc-mean()-X'
+tBodyGyroJerkMag-std(): Average (for all measures performed on the subjects) of the variable 'tBodyGyroJerkMag-std()'
 
-fBodyAcc-mean()-Y	Average (for all measures performed on the subject for the given activity) of the variable 'fBodyAcc-mean()-Y'
+fBodyAcc-mean()-X: Average (for all measures performed on the subjects) of the variable 'fBodyAcc-mean()-X'
 
-fBodyAcc-mean()-Z	Average (for all measures performed on the subject for the given activity) of the variable 
-'fBodyAcc-mean()-Z'
+fBodyAcc-mean()-Y: Average (for all measures performed on the subjects) of the variable 'fBodyAcc-mean()-Y'
 
-fBodyAcc-std()-X	Average (for all measures performed on the subject for the given activity) of the variable 'fBodyAcc-std()-X'
+fBodyAcc-mean()-Z: Average (for all measures performed on the subjects) of the variable 'fBodyAcc-mean()-Z'
 
-fBodyAcc-std()-Y	Average (for all measures performed on the subject for the given activity) of the variable 'fBodyAcc-std()-Y'
+fBodyAcc-std()-X: Average (for all measures performed on the subjects) of the variable 'fBodyAcc-std()-X'
 
-fBodyAcc-std()-Z	Average (for all measures performed on the subject for the given activity) of the variable 'fBodyAcc-std()-Z'
+fBodyAcc-std()-Y: Average (for all measures performed on the subjects) of the variable 'fBodyAcc-std()-Y'
 
-fBodyAccJerk-mean()-X	Average (for all measures performed on the subject for the given activity) of the variable 'fBodyAccJerk-mean()-X'
+fBodyAcc-std()-Z: Average (for all measures performed on the subjects) of the variable 'fBodyAcc-std()-Z'
 
-fBodyAccJerk-mean()-Y	Average (for all measures performed on the subject for the given activity) of the variable 'fBodyAccJerk-mean()-Y'
+fBodyAccJerk-mean()-X: Average (for all measures performed on the subjects) of the variable 'fBodyAccJerk-mean()-X'
 
-fBodyAccJerk-mean()-Z	Average (for all measures performed on the subject for the given activity) of the variable 'fBodyAccJerk-mean()-Z'
+fBodyAccJerk-mean()-Y: Average (for all measures performed on the subjects) of the variable 'fBodyAccJerk-mean()-Y'
 
-fBodyAccJerk-std()-X	Average (for all measures performed on the subject for the given activity) of the variable 'fBodyAccJerk-std()-X'
+fBodyAccJerk-mean()-Z: Average (for all measures performed on the subjects) of the variable 'fBodyAccJerk-mean()-Z'
 
-fBodyAccJerk-std()-Y	Average (for all measures performed on the subject for the given activity) of the variable 'fBodyAccJerk-std()-Y'
+fBodyAccJerk-std()-X: Average (for all measures performed on the subjects) of the variable 'fBodyAccJerk-std()-X'
 
-fBodyAccJerk-std()-Z	Average (for all measures performed on the subject for the given activity) of the variable 'fBodyAccJerk-std()-Z'
+fBodyAccJerk-std()-Y: Average (for all measures performed on the subjects) of the variable 'fBodyAccJerk-std()-Y'
 
-fBodyGyro-mean()-X	Average (for all measures performed on the subject for the given activity) of the variable 'fBodyGyro-mean()-X'
+fBodyAccJerk-std()-Z: Average (for all measures performed on the subjects) of the variable 'fBodyAccJerk-std()-Z'
 
-fBodyGyro-mean()-Y	Average (for all measures performed on the subject for the given activity) of the variable 'fBodyGyro-mean()-Y'
+fBodyGyro-mean()-X: Average (for all measures performed on the subjects) of the variable 'fBodyGyro-mean()-X'
 
-fBodyGyro-mean()-Z	Average (for all measures performed on the subject for the given activity) of the variable 'fBodyGyro-mean()-Z'
+fBodyGyro-mean()-Y: Average (for all measures performed on the subjects) of the variable 'fBodyGyro-mean()-Y'
 
-fBodyGyro-std()-X	Average (for all measures performed on the subject for the given activity) of the variable 'fBodyGyro-std()-X'
+fBodyGyro-mean()-Z: Average (for all measures performed on the subjects) of the variable 'fBodyGyro-mean()-Z'
 
-fBodyGyro-std()-Y	Average (for all measures performed on the subject for the given activity) of the variable 'fBodyGyro-std()-Y'
+fBodyGyro-std()-X: Average (for all measures performed on the subjects) of the variable 'fBodyGyro-std()-X'
 
-fBodyGyro-std()-Z	Average (for all measures performed on the subject for the given activity) of the variable 'fBodyGyro-std()-Z'
+fBodyGyro-std()-Y: Average (for all measures performed on the subjects) of the variable 'fBodyGyro-std()-Y'
 
-fBodyAccMag-mean()	Average (for all measures performed on the subject for the given activity) of the variable 'fBodyAccMag-mean()'
+fBodyGyro-std()-Z: Average (for all measures performed on the subjects) of the variable 'fBodyGyro-std()-Z'
 
-fBodyAccMag-std()	Average (for all measures performed on the subject for the given activity) of the variable 'fBodyAccMag-std()'
+fBodyAccMag-mean(): Average (for all measures performed on the subjects) of the variable 'fBodyAccMag-mean()'
 
-fBodyBodyAccJerkMag-mean()	Average (for all measures performed on the subject for the given activity) of the variable 'fBodyBodyAccJerkMag-mean()'
+fBodyAccMag-std(): Average (for all measures performed on the subjects) of the variable 'fBodyAccMag-std()'
 
-fBodyBodyAccJerkMag-std()	Average (for all measures performed on the subject for the given activity) of the variable 'fBodyBodyAccJerkMag-std()'
+fBodyBodyAccJerkMag-mean(): Average (for all measures performed on the subjects) of the variable 'fBodyBodyAccJerkMag-mean()'
 
-fBodyBodyGyroMag-mean()	Average (for all measures performed on the subject for the given activity) of the variable 'fBodyBodyGyroMag-mean()'
+fBodyBodyAccJerkMag-std(): Average (for all measures performed on the subjects) of the variable 'fBodyBodyAccJerkMag-std()'
 
-fBodyBodyGyroMag-std()	Average (for all measures performed on the subject for the given activity) of the variable 'fBodyBodyGyroMag-std()'
+fBodyBodyGyroMag-mean(): Average (for all measures performed on the subjects) of the variable 'fBodyBodyGyroMag-mean()'
 
-fBodyBodyGyroJerkMag-mean()	Average (for all measures performed on the subject for the given activity) of the variable 'fBodyBodyGyroJerkMag-mean()'
+fBodyBodyGyroMag-std(): Average (for all measures performed on the subjects) of the variable 'fBodyBodyGyroMag-std()'
 
-fBodyBodyGyroJerkMag-std()	Average (for all measures performed on the subject for the given activity) of the variable 'fBodyBodyGyroJerkMag-std()'
+fBodyBodyGyroJerkMag-mean(): Average (for all measures performed on the subjects) of the variable 'fBodyBodyGyroJerkMag-mean()'
 
+fBodyBodyGyroJerkMag-std(): Average (for all measures performed on the subjects) of the variable 'fBodyBodyGyroJerkMag-std()'
