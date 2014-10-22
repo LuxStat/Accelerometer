@@ -17,7 +17,7 @@ The resulting data set (180 rows - 6 activities times 30 subjects; 68 columns - 
 
 (III)	LIST OF VARIABLES
 -----------------
-Please note that the 66 measurement variables are all averages across all measurements for the combination of activity and subject specified in “Activity” and “Subject”; the units for said measurements are provided in the source data:
+Please note that the 66 measurement variables are all averages across all measurements for the combination of activity and subject specified in “Activity” and “Subject”; the units for said measurements are provided in the source data description:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 Variable:	Description
